@@ -1,0 +1,14 @@
+/Users/nathanferreira/Projects/Teste_BD/Teste_BD/bin/Debug/netcoreapp3.0/Teste_BD
+/Users/nathanferreira/Projects/Teste_BD/Teste_BD/bin/Debug/netcoreapp3.0/Teste_BD.deps.json
+/Users/nathanferreira/Projects/Teste_BD/Teste_BD/bin/Debug/netcoreapp3.0/Teste_BD.runtimeconfig.json
+/Users/nathanferreira/Projects/Teste_BD/Teste_BD/bin/Debug/netcoreapp3.0/Teste_BD.runtimeconfig.dev.json
+/Users/nathanferreira/Projects/Teste_BD/Teste_BD/bin/Debug/netcoreapp3.0/Teste_BD.dll
+/Users/nathanferreira/Projects/Teste_BD/Teste_BD/bin/Debug/netcoreapp3.0/Teste_BD.pdb
+/Users/nathanferreira/Projects/Teste_BD/Teste_BD/bin/Debug/netcoreapp3.0/Npgsql.dll
+/Users/nathanferreira/Projects/Teste_BD/Teste_BD/bin/Debug/netcoreapp3.0/System.Runtime.CompilerServices.Unsafe.dll
+/Users/nathanferreira/Projects/Teste_BD/Teste_BD/obj/Debug/netcoreapp3.0/Teste_BD.csprojAssemblyReference.cache
+/Users/nathanferreira/Projects/Teste_BD/Teste_BD/obj/Debug/netcoreapp3.0/Teste_BD.AssemblyInfoInputs.cache
+/Users/nathanferreira/Projects/Teste_BD/Teste_BD/obj/Debug/netcoreapp3.0/Teste_BD.AssemblyInfo.cs
+/Users/nathanferreira/Projects/Teste_BD/Teste_BD/obj/Debug/netcoreapp3.0/Teste_BD.csproj.CopyComplete
+/Users/nathanferreira/Projects/Teste_BD/Teste_BD/obj/Debug/netcoreapp3.0/Teste_BD.dll
+/Users/nathanferreira/Projects/Teste_BD/Teste_BD/obj/Debug/netcoreapp3.0/Teste_BD.pdb

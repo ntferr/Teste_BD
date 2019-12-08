@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nathanferreira/Projects/Teste_BD/Teste_BD/Teste_BD.csproj": {}
+  },
+  "projects": {
+    "/Users/nathanferreira/Projects/Teste_BD/Teste_BD/Teste_BD.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nathanferreira/Projects/Teste_BD/Teste_BD/Teste_BD.csproj",
+        "projectName": "Teste_BD",
+        "projectPath": "/Users/nathanferreira/Projects/Teste_BD/Teste_BD/Teste_BD.csproj",
+        "packagesPath": "/Users/nathanferreira/.nuget/packages/",
+        "outputPath": "/Users/nathanferreira/Projects/Teste_BD/Teste_BD/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/nathanferreira/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Npgsql": {
+              "target": "Package",
+              "version": "[4.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
